@@ -1,0 +1,11 @@
+# Ignore model weights (will be downloaded by the script) 
+models/*.pth 
+# Python cache files  
+__pycache__/  
+*.py[cod]  
+*$py.class 
+# Generated result images  
+results/ 
+models/pspnet_resnet101_sgd_lr_0.002_epoch_100_test_iou_0.918.pth 
+__pycache__/  
+*.pyc 
